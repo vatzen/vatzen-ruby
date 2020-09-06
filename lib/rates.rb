@@ -14,10 +14,11 @@ class Rates < Api
     })
   end
 
-  def get_rates(limit: 100, page: 1)
+  def get_rates(limit: 100, page: 1, member_state: false)
     self.api_get('rates', {
       'limit' => limit,
       'page' => page,
+      'member_state' => member_state
     })
   end
 
