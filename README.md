@@ -92,7 +92,7 @@ VAT number validation is implemented inside `validate` function, which accepts o
 Example:
 
 ```ruby
-await vatzen.validation.validate('LU123455');
+vatzen.validation.validate('LU123455');
 ```
 
 ### Create Validation
