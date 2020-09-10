@@ -1,6 +1,6 @@
 # VatZen Ruby Gem
 
-Ruby helper to connect your backend with VatZen [https://vatzen.com](https://vatzen.com). Before using the gem, we highly encourage you to check out [our official documentation](https://documentation.vatzen.com/) before using this module.
+Ruby helper to connect your backend with VatZen [https://vatzen.com](https://vatzen.com). Before using the gem, we highly encourage you to check out [our official documentation](https://documentation.vatzen.com/).
 
 ## Installation
 
